@@ -3,7 +3,7 @@ function card() {
     return (
         <>
          <div class="flex justify-center items-center h-screen w-full bg-gradient-to-r from-blue-500 to-purple-600">
-            <div class="w-1/2 h-4/2 bg-white rounded-lg shadow-2xl p-8 m-4">
+            <div class="w-1/2 h-4/2 bg-white bg-opacity-50 rounded-lg shadow-2xl p-8 m-4">
                 <h1 class="block w-full text-center text-gray-800 text-2xl font-bold mb-6">
                     Register
                 </h1>
